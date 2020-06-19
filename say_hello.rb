@@ -1,11 +1,6 @@
-# says programer's name
-def say_hello(name)
+# says programer's name or Ruby Programmer as default
+def say_hello(name, name="Ruby Programmer!")
   puts "Hello #{name}!"
-end
-
-# assigning default value
-def say_hello(name="Ruby Programmer!")
-  puts "Hello #{name}"
 end
 
 say_hello("Gabriela")
