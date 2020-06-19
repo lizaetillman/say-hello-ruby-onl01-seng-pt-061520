@@ -1,5 +1,5 @@
 # says programer's name or Ruby Programmer as default
-def say_hello(name, name="Ruby Programmer!")
+def say_hello(name, name="Ruby Programmer")
   puts "Hello #{name}!"
 end
 
