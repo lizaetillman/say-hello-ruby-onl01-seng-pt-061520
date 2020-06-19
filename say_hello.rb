@@ -3,4 +3,7 @@ def say_hello(name)
 end
 
 say_hello("Gabriela")
-say_hello
+# Hello, Gabriela!
+
+say_hello(name)
+# Hello
