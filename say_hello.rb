@@ -3,7 +3,7 @@ def say_hello(name)
 end
 
 say_hello("Gabriela")
-# Hello, Gabriela!
+# Hello Gabriela!
 
 say_hello(name)
-# Hello
+# Hello Ruby Programmer! 
